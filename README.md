@@ -8,9 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniyalk&layout=compact&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### 2023 Goals
-
-- [ ] Beginner to Intermediate level in iOS Dev
-- [ ] Advance level in Tensorflow and Machine Learning
-- [ ] Intermediate level in Flutter app Dev
