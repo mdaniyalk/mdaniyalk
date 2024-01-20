@@ -6,5 +6,12 @@
 - 🌱 I’m currently learning Flutter, Data Science, and Machine Learning, specializing in Computer Vision and Natural Language Processing
 - 📫 Reach me at daniyal.kausar@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniyalk&layout=compact&theme=algolia&count_private=true)](https://github.com/mdaniyalk)
 
+<p align='center'> 
+  <a href="https://github.com/mdaniyalk"><img src="https://github-readme-stats.vercel.app/api?username=mdaniyalk&show_icons=true&layout=compact&count_private=true&theme=algolia"/></a>
+  <a href="https://github.com/mdaniyalk"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdaniyalk&theme=algolia"/></a>
+</p>
+
+<p align='center'> 
+  <a href="https://github.com/mdaniyalk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaniyalk&layout=compact&theme=algolia&count_private=true"/></a>
+</p>
