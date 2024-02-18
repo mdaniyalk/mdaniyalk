@@ -13,5 +13,5 @@
 </p>
 
 <p align='center'> 
-  <a href="https://github.com/mdaniyalk"><img src="https://github-stats.api.daniyalkautsar.com/api/top-langs/?username=mdaniyalk&layout=compact&theme=algolia&count_private=true&cache_seconds=600"/></a>
+  <a href="https://github.com/mdaniyalk"><img src="https://github-stats.api.daniyalkautsar.com/api/top-langs/?username=mdaniyalk&layout=compact&theme=algolia&count_private=true&cache_seconds=600&langs_count=10&size_weight=0.5&count_weight=0.5"/></a>
 </p>
